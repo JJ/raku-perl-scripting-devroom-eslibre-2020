@@ -8,4 +8,5 @@ repo con un fichero donde se incluya la charla.
 aparecerá cuando se acepte**
 
 * [Tutorial Perl6](tutorial-perl6.md), por *Antonio Gámiz Delgado*.
+* [Generacion y analisis de PDF en Perl](PDFtoolchain.md), por *Jose Luis Perez Diez*.
 * [Título de la charla](plantilla.md), por *autor/a/es*.
