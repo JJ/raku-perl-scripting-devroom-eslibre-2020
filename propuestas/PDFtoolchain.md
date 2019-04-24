@@ -1,7 +1,7 @@
-# Generacion y analisis de PDF en Perl
+# Generación y análisis de PDF en Perl
 
-En CPAN hay muchos modulos para trabajar con PDF explicare los que uso
-con sus pros y contras.
+En CPAN hay muchas distribuciones para trabajar con PDF, explicare las 
+que uso sus pros y contras.
 
 ## Formato de la propuesta
 
@@ -9,20 +9,24 @@ con sus pros y contras.
 
 ## Descripción
 
-En CPAN hay muchos modulos que permiten crear, editar y analizar PDF, 
-En tareas de creacion casi todos los modulos de CPAN son validos y 
-faciles de usar. Yo para la edicion de PDF normalmente uso solo 2 Modulos 
-<< modulos>>
+En CPAN hay muchas distribuciones que permiten crear, editar y analizar
+PDF. En tareas de creación casi todos los módulos de CPAN son validos y 
+fáciles de usar. Yo para la edición de PDF normalmente uso solo 2 
+distribuciones CAM::PDF y PDF::API2
 
-La aplicacion de la ley 39 implica que todas las personas juridicas  
-nacionales se han de comunicar por medios electronicos, en mi caso la 
-mayoria de las personas fisicaas tambien tienen esta obligacion. Muchas
-de estas entradas son formularios PDF Firmado con Documentos adjuntos y 
-metadatos que necesitan recuperacion y analisis
+La aplicación de la ley 39 implica que todas las personas jurídicas 
+nacionales se han de comunicar por medios electrónicos, en mi caso la 
+mayoría de las personas físicas también tienen esta obligación. Las 
+entradas que nos llegan solo se identifican por su GUID y son ficheros 
+ZIP o PDF, su contenido es principalmente PDFs firmados con documentos
+adjuntos y metadatos que necesitan recuperación y análisis para poder 
+clasificarlos.
+
 
 ## Público objetivo
 
-Quien tenga que crear, editar o recuperar datos de PDF 
+Los  tengan que crear, editar o recuperar datos de PDF y quien quiera 
+ver como genero un PDF durante la charla con al menos las dos distribuciones.
 
 ## Ponente(s)
 
@@ -30,5 +34,5 @@ José Luis Perez Diez.
 Barcelona Perl mongers.
 Actualmente fuera de IT en la Generalitat de Catalunya, anteriormente
 programador, administrador de sistemas y soporte de segundo nivel.
-Granada Perl Workshop, Granada love 4 Perl, Cluj YAPC, y en muchos de 
-los eventos organizados por Barcelona Perl mongers
+Ponente en Granada Perl Workshop, Granada love 4 Perl, Cluj YAPC, y en 
+muchos de los eventos organizados por Barcelona Perl mongers
