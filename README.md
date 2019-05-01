@@ -8,6 +8,6 @@ La llamada para trabajos está abierta a todo el mundo, y se hará mediante un p
 
 Puedes solicitar una charla (en diferentes formatos): [propuestas](propuestas). Charlas aceptadas hasta el momento:
 
-* [Tutorial Perl6](tutorial-perl6.md), por *Antonio Gámiz Delgado*.
-* [Generacion y analisis de PDF en Perl](PDFtoolchain.md), por *Jose Luis Perez Diez*.
-* [Perl6 Sun Position](Perl6SunPosition.md), por "Renato Luis Ramirez Rivero".
+* [Tutorial Perl6](propuestas/tutorial-perl6.md), por *Antonio Gámiz Delgado*.
+* [Generacion y analisis de PDF en Perl](propuestas/PDFtoolchain.md), por *Jose Luis Perez Diez*.
+* [Perl6 Sun Position](propuestas/Perl6SunPosition.md), por "Renato Luis Ramirez Rivero".
