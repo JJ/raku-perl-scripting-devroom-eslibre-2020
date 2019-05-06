@@ -11,3 +11,7 @@ Puedes solicitar una charla (en diferentes formatos): [propuestas](propuestas). 
 * [Tutorial Perl6](propuestas/tutorial-perl6.md), por *Antonio Gámiz Delgado*.
 * [Generacion y analisis de PDF en Perl](propuestas/PDFtoolchain.md), por *Jose Luis Perez Diez*.
 * [Perl6 Sun Position](propuestas/Perl6SunPosition.md), por "Renato Luis Ramirez Rivero".
+
+### Referencias
+
+- [Big Data devoroom ](https://github.com/acs/bigdata_ml_devroom)
