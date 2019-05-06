@@ -13,7 +13,9 @@ se les olvida mencionar Perl (y otros tantos lenguajes). Eso para mí es una opo
 documentación y ver "que hay por debajo" y ver como se pueden consumir esos servicios desde Perl.
 
 Daremos un paseo por un montón de servicios (de varios Clouds) con los que he tenido la suerte de 
-lidiar. Veremos que protocolos usan y que librerias Perl sirven para consumirlos.
+lidiar. Veremos protocolos, como funcionan y que librerias Perl sirven para consumirlos.
+
+Incluso veremos como hacer aplicaciones Perl en Serverless con AWS Lambda :)
 
 ## Público objetivo
 
