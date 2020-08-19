@@ -1,4 +1,4 @@
-# Título de la propuesta
+# Título de la propuesta (pon aquí el título que quieras darle)
 
 Pequeña introducción y motivación de la misma.
 
